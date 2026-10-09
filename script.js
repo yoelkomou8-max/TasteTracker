@@ -83,3 +83,4 @@ for (let food of friendFavorites) {
 
 console.log(`The longest food name in the list is ${longestFoodName} with ${longestFoodName.length} characters.`);
 console.log("Welcome to Taste Tracker!");
+console.log("Taste Tracker completed successfully!");
